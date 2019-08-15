@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/home/bdomingo/django/wordcount"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/bdomingo/django/venv/bin/python3.6"
+	}
+}
